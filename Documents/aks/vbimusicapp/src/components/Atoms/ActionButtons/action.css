@@ -1,0 +1,16 @@
+.btn {
+    font-family: 'Roboto', sans-serif;  
+    color: #000000 !important;
+    font-size: 14px;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 15px;
+    border-radius: 0px;
+    border: 2px solid #060F0B;
+    background: #FFFFFF;
+    letter-spacing: 1px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    color: #ffffff !important;
+    background: #468CCF;
+  }

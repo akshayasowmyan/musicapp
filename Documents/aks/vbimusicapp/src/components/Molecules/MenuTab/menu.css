@@ -1,0 +1,24 @@
+.tab-container{
+    max-width: 900px;
+    margin: auto;
+}
+.tab-container .react-tabs__tab-list
+{
+border:none;
+}
+
+.tab-container .react-tabs__tab{
+    margin-right: 50px;
+    border: none;
+    color: #fff;
+    background-color: transparent;
+   
+}
+.tab-container .react-tabs__tab:hover,.tab-container .react-tabs__tab--selected, .tab-container .react-tabs__tab:focus{
+box-shadow: none;
+background: transparent;
+border-bottom: 1px solid #fd264f;
+}
+.tab-container .react-tabs__tab:focus:after{
+background: transparent;
+}

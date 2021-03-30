@@ -1,0 +1,8 @@
+.eachplaylist-container .details-right button{
+    border: 1px solid #fd264f;
+    background: transparent;
+    color: #fff;
+    padding: 6px 10px;
+    line-height: 1;
+    cursor: pointer;
+}
